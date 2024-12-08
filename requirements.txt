@@ -1,0 +1,16 @@
+opencv-python
+numpy
+tensorflow
+torch
+transformers
+face-recognition
+mediapipe
+flask
+flask-socketio
+python-dotenv
+pyyaml
+python-jose
+pytest
+slowapi
+fastapi
+pydantic

@@ -1,0 +1,13 @@
+cache/
+
+config/__pycache__/
+
+core/__pycache__/
+
+data/
+
+modules/__pycache__/
+
+utils/__pycache__/
+
+.env
